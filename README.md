@@ -21,7 +21,7 @@ Das Repository ist wie folgt strukturiert:
 │   ├── Bericht_Goldpreis.pdf           # Gesamter Projektbericht des Teams
 │   └── Goldpreis-Prognose_Projektbericht.pdf # Detaillierter Einzelbericht (SVR Fokus)
 ├── main.py                             # Python-Skript für Pipeline, GridSearch & Visualisierung
-├── SVR_ergebnisse_main.jpg            # Visualisierung der Vorhersage-Horizonte & Residuen
+├── SVR_ergebnisse_main.jpg             # Visualisierung der Vorhersage-Horizonte & Residuen
 └── README.md                           # Diese Dokumentationsdatei
 ```
 
