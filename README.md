@@ -12,6 +12,7 @@ Ein besonderer Schwerpunkt dieses Teilprojekts liegt auf einer robusten **Suppor
 
 Das Repository ist wie folgt strukturiert:
 
+```text
 .
 ├── DATA/
 │   ├── gold_train_pp.csv               # Vorverarbeitete Trainingsdaten (2011–2018)
@@ -22,6 +23,7 @@ Das Repository ist wie folgt strukturiert:
 ├── main.py                             # Python-Skript für Pipeline, GridSearch & Visualisierung
 ├── SVR_ergebnisse_main.jpg            # Visualisierung der Vorhersage-Horizonte & Residuen
 └── README.md                           # Diese Dokumentationsdatei
+```
 
 ---
 
