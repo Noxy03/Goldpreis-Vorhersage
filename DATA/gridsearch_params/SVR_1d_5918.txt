@@ -1,6 +1,0 @@
-model = SVR(
-    kernel='rbf',
-    C=1.0,
-    epsilon=0.05,
-    gamma='scale',
-)

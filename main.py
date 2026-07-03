@@ -212,7 +212,7 @@ for h in HORIZONS:
     # --- Beste Parameter speichern ---
     PARAMS_DIR.mkdir(parents=True, exist_ok=True)
     random_number = random.randint(1000, 9999)
-    params_path = PARAMS_DIR / f"SVR_{h}d_{random_number}.txt"
+    params_path = PARAMS_DIR / f"SVR_{h}.txt"
     model_text = (
         f"model = SVR(\n"
         f"    kernel='rbf',\n"
