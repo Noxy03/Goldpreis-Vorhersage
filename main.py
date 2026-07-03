@@ -276,6 +276,6 @@ for idx, h in enumerate(HORIZONS):
     axes[1, idx].grid(True, alpha=0.3)
 
 plt.tight_layout()
-plt.savefig('svr_ergebnisse_main4.png', dpi=150, bbox_inches='tight')
-print("svr_ergebnisse_main4.png gespeichert")
+plt.savefig('svr_ergebnisse_main.png', dpi=150, bbox_inches='tight')
+print("svr_ergebnisse_main.png gespeichert")
 plt.show()
